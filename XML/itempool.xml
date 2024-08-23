@@ -1,0 +1,8 @@
+<!--编辑道具池-->
+<ItemPools>
+    <Pool name="treasure">
+        <!--Weight权重 DescreaseBy权重减少，当Weight-DescreaseBy < RemovOn，该道具被从当前道具池移除-->
+        <Item Id="2" Weight="10" DescreaseBy="1" RemoveOn="0.1" />
+        <Item Id="1" Weight="11" DescreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+</ItemPools>

@@ -1,0 +1,4 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive id="1" name="TATAKAI" gfx="heart.png" description="不要停下来啊！" quality="0" cache="damage" tags="增加1点攻击力" />
+    <active id="2" name="YOXI" gfx="yoxi.png" description="你感到十分哟西" quality="4" maxcharges="6" chargetype="normal" tags="你滴，大大滴良民" />
+</items>
